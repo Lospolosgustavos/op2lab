@@ -1,0 +1,8 @@
+﻿  laba5.cpp
+C:\Users\valik\source\repos\laba5\laba5\laba5.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\valik\source\repos\laba5\laba5\laba5.cpp(12,13): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+  Classes.cpp
+  Functions.cpp
+  Storage.cpp
+  Generating Code...
+  laba5.vcxproj -> C:\Users\valik\source\repos\laba5\Debug\laba5.exe
